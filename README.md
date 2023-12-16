@@ -35,6 +35,6 @@ I'm a seasoned software developer with over 6.5 years of experience, specializin
 ![Photoshop](https://img.shields.io/badge/Photoshop-10/10-purple)
 
 ## Contact
-- LinkedIn: [Your LinkedIn Profile]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/rafeeq-shaik-1140b114b/))
+- LinkedIn: https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/rafeeq-shaik-1140b114b/
 - Email: rafeeqahamed30@outlook.com
-Let's build amazing things together! 🚀
+- Let's build amazing things together! 🚀
